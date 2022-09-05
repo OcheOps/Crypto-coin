@@ -6,7 +6,7 @@ require('chai')
   .use(require('chai-bignumber')(BigNumber))
   .should();
 
-contract('DappToken', accounts => {
+contract('OcheToken', accounts => {
   const _name = 'OCHE Token';
   const _symbol = 'OCHE';
   const _decimals = 18;
