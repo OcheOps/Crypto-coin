@@ -1,2 +1,2 @@
-# Agba-Cooker
-i'll update the name when i'm done but for now watch this
+cooked up a crypto coin will update this later 
+
